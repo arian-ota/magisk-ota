@@ -1,6 +1,6 @@
 {
-    "version": "v1.04",
-    "versionCode": 104,
-    "zipUrl": "https://miracle.girlswithout.top/arian/lineage-21/miuicamera/MiuiCamera_unicorn_v1.04.zip",
-    "changelog": "https://xdaforums.com/t/rom-14-unofficial-lineageos-21-for-xiaomi-12s-pro.4652643/#post-89295579"
+    "version": "v1.05",
+    "versionCode": 105,
+    "zipUrl": "https://miracle.girlswithout.top/arian/lineage-21/miuicamera/MiuiCamera_unicorn_v1.05.zip",
+    "changelog": "https://raw.githubusercontent.com/arian-ota/magisk-ota/main/miuicamera_unicorn_changelog.txt"
 }

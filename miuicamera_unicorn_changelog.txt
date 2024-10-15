@@ -1,0 +1,6 @@
+### v1.05
+* Improved 3rd party gallery compatibility
+
+### v1.04
+* Fixed launching MiuiCamera while screen is locked
+* Added support for ROMs signed with other keys
