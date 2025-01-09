@@ -1,4 +1,5 @@
 ### v1.06
+--- Do not update if you use Android 15 QPR0 or earlier ---
 * Fixed postprocessing of pictures on Android 15 QPR1
 
 ### v1.05
