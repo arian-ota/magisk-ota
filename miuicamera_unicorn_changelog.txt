@@ -1,3 +1,6 @@
+### v1.07
+* Improved readability of shortcut icons
+
 ### v1.06
 --- Do not update if you use Android 15 QPR0 or earlier ---
 * Fixed postprocessing of pictures on Android 15 QPR1
