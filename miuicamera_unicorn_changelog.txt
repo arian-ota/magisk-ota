@@ -1,3 +1,8 @@
+### v1.10
+--- Do not update if you use Android 15 or earlier ---
+* Updated to cupid OS2.0.209.0.VLCMIXM
+* Fixed camera closing after turning screen off
+
 ### v1.08
 * Fixed crash on lineage-22.2
 
